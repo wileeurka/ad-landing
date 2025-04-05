@@ -1,0 +1,344 @@
+{
+  "EN": {
+    "popupTitle": "Congratulations!",
+    "win1": "YOU WIN 700 $",
+    "win2": "YOUR CHANCE OF WINNING HAS BEEN INCREASED TO 93%!",
+    "cta": "!!! HURRY UP! THE OFFER IS VALID ONLY TODAY !!!",
+    "popupButton": "claim bonus",
+    "finalTitle": "Your prize!",
+    "info": "All winnings are verified and confirmed. We guarantee fair payments to each winner.",
+    "play": "PLAY",
+    "spin": "SPIN",
+    "wheelBonuses": [
+      "500 free spins",
+      "Tripling the first deposit up to $5000",
+      "93% chance of winning on the first day",
+      "50% cashback for all loses by the first day",
+      "VIP status for 1 month",
+      "VIP status for 1 month"
+    ]
+  },
+  "CA": {
+    "popupTitle": "Congratulations!",
+    "win1": "YOU WIN 700 CAD",
+    "win2": "YOUR CHANCE OF WINNING HAS BEEN INCREASED TO 93%!",
+    "cta": "!!! HURRY UP! THE OFFER IS VALID ONLY TODAY !!!",
+    "popupButton": "claim bonus",
+    "finalTitle": "Your prize!",
+    "info": "All winnings are verified and confirmed. We guarantee fair payments to each winner.",
+    "play": "PLAY",
+    "spin": "SPIN",
+    "wheelBonuses": [
+      "500 free spins",
+      "Tripling the first deposit up to $5000",
+      "93% chance of winning on the first day",
+      "50% cashback for all loses by the first day",
+      "VIP status for 1 month",
+      "VIP status for 1 month"
+    ]
+  },
+  "GB": {
+    "popupTitle": "Congratulations!",
+    "win1": "YOU WIN 700 £",
+    "win2": "YOUR CHANCE OF WINNING HAS BEEN INCREASED TO 93%!",
+    "cta": "!!! HURRY UP! THE OFFER IS VALID ONLY TODAY !!!",
+    "popupButton": "claim bonus",
+    "finalTitle": "Your prize!",
+    "info": "All winnings are verified and confirmed. We guarantee fair payments to each winner.",
+    "play": "PLAY",
+    "spin": "SPIN",
+    "wheelBonuses": [
+      "500 free spins",
+      "Tripling the first deposit up to £5000",
+      "93% chance of winning on the first day",
+      "50% cashback for all loses by the first day",
+      "VIP status for 1 month",
+      "VIP status for 1 month"
+    ]
+  },
+  "AU": {
+    "popupTitle": "Congratulations!",
+    "win1": "YOU WIN 700 AUD",
+    "win2": "YOUR CHANCE OF WINNING HAS BEEN INCREASED TO 93%!",
+    "cta": "!!! HURRY UP! THE OFFER IS VALID ONLY TODAY !!!",
+    "popupButton": "Claim Bonus",
+    "finalTitle": "Your Prize!",
+    "info": "All winnings are verified and confirmed. We guarantee fair payments to each winner.",
+    "play": "PLAY",
+    "spin": "SPIN",
+    "wheelBonuses": [
+      "500 free spins",
+      "Tripling the first deposit up to $5000 AUD",
+      "93% chance of winning on the first day",
+      "50% cashback for all losses on the first day",
+      "VIP status for 1 month",
+      "VIP status for 1 month"
+    ]
+  },
+  "FR": {
+    "popupTitle": "Félicitations!",
+    "win1": "VOUS GAGNEZ 700 €",
+    "win2": "VOTRE CHANCE DE GAGNER A AUGMENTÉ À 93%!",
+    "cta": "!!! DÉPÊCHEZ-VOUS! L'OFFRE EST VALABLE UNIQUEMENT AUJOURD'HUI !!!",
+    "popupButton": "réclamer le bonus",
+    "finalTitle": "Votre prix!",
+    "info": "Tous les gains sont vérifiés et confirmés. Nous garantissons des paiements équitables à chaque gagnant.",
+    "play": "JOUER",
+    "spin": "TOURNER",
+    "wheelBonuses": [
+      "500 tours gratuits",
+      "Triplement du premier dépôt jusqu'à 5000 €",
+      "93% de chance de gagner le premier jour",
+      "50% de cashback sur toutes les pertes du premier jour",
+      "Statut VIP pendant 1 mois",
+      "Statut VIP pendant 1 mois"
+    ]
+  },
+  "BE": {
+    "popupTitle": "Félicitations!",
+    "win1": "VOUS GAGNEZ 700 €",
+    "win2": "VOTRE CHANCE DE GAGNER A AUGMENTÉ À 93%!",
+    "cta": "!!! DÉPÊCHEZ-VOUS! L'OFFRE EST VALABLE UNIQUEMENT AUJOURD'HUI !!!",
+    "popupButton": "réclamer le bonus",
+    "finalTitle": "Votre prix!",
+    "info": "Tous les gains sont vérifiés et confirmés. Nous garantissons des paiements équitables à chaque gagnant.",
+    "play": "JOUER",
+    "spin": "TOURNER",
+    "wheelBonuses": [
+      "500 tours gratuits",
+      "Triplement du premier dépôt jusqu'à 5000 €",
+      "93% de chance de gagner le premier jour",
+      "50% de cashback sur toutes les pertes du premier jour",
+      "Statut VIP pendant 1 mois",
+      "Statut VIP pendant 1 mois"
+    ]
+  },
+  "IT": {
+    "popupTitle": "Congratulazioni!",
+    "win1": "HAI VINTO 700 €",
+    "win2": "LA TUA POSSIBILITÀ DI VINCERE È AUMENTATA AL 93%!",
+    "cta": "!!! AFFRETTATI! L'OFFERTA È VALIDA SOLO OGGI !!!",
+    "popupButton": "richiedi bonus",
+    "finalTitle": "Il tuo premio!",
+    "info": "Tutte le vincite sono verificate e confermate. Garantiamo pagamenti equi a ogni vincitore.",
+    "play": "GIOCARE",
+    "spin": "GIRARE",
+    "wheelBonuses": [
+      "500 giri gratuiti",
+      "Triplicazione del primo deposito fino a 5000 €",
+      "93% di possibilità di vincere il primo giorno",
+      "50% di cashback su tutte le perdite del primo giorno",
+      "Stato VIP per 1 mese",
+      "Stato VIP per 1 mese"
+    ]
+  },
+  "ES": {
+    "popupTitle": "¡Felicidades!",
+    "win1": "¡GANASTE 700 €!",
+    "win2": "¡TU OPORTUNIDAD DE GANAR HA AUMENTADO AL 93%!",
+    "cta": "!!! ¡DATE PRISA! LA OFERTA SOLO ES VÁLIDA HOY !!!",
+    "popupButton": "reclamar bonificación",
+    "finalTitle": "¡Tu premio!",
+    "info": "Todas las ganancias están verificadas y confirmadas. Garantizamos pagos justos a cada ganador.",
+    "play": "JUGAR",
+    "spin": "GIRAR",
+    "wheelBonuses": [
+      "500 giros gratis",
+      "Triplicación del primer depósito hasta 5000 €",
+      "93% de probabilidad de ganar el primer día",
+      "50% de reembolso en todas las pérdidas del primer día",
+      "Estado VIP por 1 mes",
+      "Estado VIP por 1 mes"
+    ]
+  },
+  "NL": {
+    "popupTitle": "Gefeliciteerd!",
+    "win1": "JE WINT 700 €",
+    "win2": "JE KANS OM TE WINNEN IS VERHOOGD TOT 93%!",
+    "cta": "!!! SCHIET OP! DE AANBIEDING IS ALLEEN VANDAAG GELDIG !!!",
+    "popupButton": "bonus claimen",
+    "finalTitle": "Je prijs!",
+    "info": "Alle winsten zijn geverifieerd en bevestigd. Wij garanderen eerlijke betalingen aan elke winnaar.",
+    "play": "SPELEN",
+    "spin": "DRAAIEN",
+    "wheelBonuses": [
+      "500 gratis spins",
+      "Verdriedubbeling van de eerste storting tot €5000",
+      "93% kans om de eerste dag te winnen",
+      "50% cashback op alle verliezen op de eerste dag",
+      "VIP-status voor 1 maand",
+      "VIP-status voor 1 maand"
+    ]
+  },
+  "DE": {
+    "popupTitle": "Herzlichen Glückwunsch!",
+    "win1": "SIE GEWINNEN 700 €",
+    "win2": "IHRE GEWINNCHANCE WURDE AUF 93% ERHÖHT!",
+    "cta": "!!! BEEILEN SIE SICH! DAS ANGEBOT IST NUR HEUTE GÜLTIG !!!",
+    "popupButton": "Bonus einfordern",
+    "finalTitle": "Ihr Preis!",
+    "info": "Alle Gewinne sind verifiziert und bestätigt. Wir garantieren faire Auszahlungen an jeden Gewinner.",
+    "play": "SPIELEN",
+    "spin": "DREHEN",
+    "wheelBonuses": [
+      "500 Freispiele",
+      "Verdreifachung der ersten Einzahlung bis zu 5000 €",
+      "93% Gewinnchance am ersten Tag",
+      "50% Cashback für alle Verluste am ersten Tag",
+      "VIP-Status für 1 Monat",
+      "VIP-Status für 1 Monat"
+    ]
+  },
+  "TR": {
+    "popupTitle": "Tebrikler!",
+    "win1": "25,000 TL KAZANDINIZ",
+    "win2": "KAZANMA ŞANSINIZ %93'E YÜKSELTİLDİ!",
+    "cta": "!!! ACELE EDİN! TEKLİF SADECE BUGÜN GEÇERLİ !!!",
+    "popupButton": "bonusu talep et",
+    "finalTitle": "Ödülünüz!",
+    "info": "Tüm kazançlar doğrulanmış ve onaylanmıştır. Her kazanana adil ödeme garantisi veriyoruz.",
+    "play": "OYNAT",
+    "spin": "ÇEVİR",
+    "wheelBonuses": [
+      "500 ücretsiz dönüş",
+      "İlk depozitoda 25,000 TL'ye kadar üç katı",
+      "İlk günde %93 kazanma şansı",
+      "İlk gün için tüm kayıplarda %50 geri ödeme",
+      "1 ay VIP statüsü",
+      "1 ay VIP statüsü"
+    ]
+  },
+  "GR": {
+    "popupTitle": "Συγχαρητήρια!",
+    "win1": "ΚΕΡΔΙΣΑΤΕ 700 €",
+    "win2": "Η ΠΙΘΑΝΟΤΗΤΑ ΝΙΚΗΣ ΕΧΕΙ ΑΥΞΗΘΕΙ ΣΤΟ 93%!",
+    "cta": "!!! ΒΙΑΣΤΕΙΤΕ! Η ΠΡΟΣΦΟΡΑ ΙΣΧΥΕΙ ΜΟΝΟ ΣΗΜΕΡΑ !!!",
+    "popupButton": "απαιτήστε το μπόνους",
+    "finalTitle": "Το βραβείο σας!",
+    "info": "Όλα τα κέρδη επαληθεύονται και επιβεβαιώνονται. Εγγυόμαστε δίκαιες πληρωμές σε κάθε νικητή.",
+    "play": "ΠΑΙΞΤΕ",
+    "spin": "ΣΤΡΙΨΤΕ",
+    "wheelBonuses": [
+      "500 δωρεάν περιστροφές",
+      "Τριπλασιασμός της πρώτης κατάθεσης έως και 700 €",
+      "93% πιθανότητα νίκης την πρώτη ημέρα",
+      "50% επιστροφή χρημάτων για όλες τις απώλειες την πρώτη ημέρα",
+      "VIP κατάσταση για 1 μήνα",
+      "VIP κατάσταση για 1 μήνα"
+    ]
+  },
+  "PL": {
+    "popupTitle": "Gratulacje!",
+    "win1": "WYGRAŁEŚ 3000 PLN",
+    "win2": "TWOJE SZANSE NA WYGRANĄ ZWIĘKSZYŁY SIĘ DO 93%!",
+    "cta": "!!! POŚPIESZ SIĘ! OFERTA WAŻNA TYLKO DZISIAJ !!!",
+    "popupButton": "odbierz bonus",
+    "finalTitle": "Twoja nagroda!",
+    "info": "Wszystkie wygrane są weryfikowane i potwierdzane. Gwarantujemy uczciwe wypłaty dla każdego zwycięzcy.",
+    "play": "GRAJ",
+    "spin": "OBRÓĆ",
+    "wheelBonuses": [
+      "500 darmowych spinów",
+      "Potrojenie pierwszej wpłaty do 3000 PLN",
+      "93% szansa na wygraną w pierwszym dniu",
+      "50% cashback za wszystkie straty w pierwszym dniu",
+      "Status VIP na 1 miesiąc",
+      "Status VIP na 1 miesiąc"
+    ]
+  },
+  "SI": {
+    "popupTitle": "Čestitke!",
+    "win1": "ZMAGALI STE 700 €",
+    "win2": "VAŠA PRILOŽNOST ZA ZMAGO JE POVEČANA NA 93%!",
+    "cta": "!!! POHITITE! PONUDBA VELJA SAMO DANES !!!",
+    "popupButton": "prejmi bonus",
+    "finalTitle": "Vaša nagrada!",
+    "info": "Vsi dobitki so potrjeni in preverjeni. Zagotavljamo poštena izplačila za vsakega zmagovalca.",
+    "play": "IGRAJ",
+    "spin": "VRTI",
+    "wheelBonuses": [
+      "500 brezplačnih vrtljajev",
+      "Trojno povečanje prvega depozita do 5000 €",
+      "93% možnost zmage na prvi dan",
+      "50% vračilo denarja za vse izgube na prvi dan",
+      "VIP status za 1 mesec",
+      "VIP status za 1 mesec"
+    ]
+  },
+  "SK": {
+    "popupTitle": "Gratulujeme!",
+    "win1": "VYHRÁVATE 700 €",
+    "win2": "VAŠA ŠANCA NA VÝHRU SA ZVÝŠILA NA 93%!",
+    "cta": "!!! PONÁHĽAJTE SA! PONUKA PLATÍ LEN DNES !!!",
+    "popupButton": "získať bonus",
+    "finalTitle": "Vaša cena!",
+    "info": "Všetky výhry sú overené a potvrdené. Zaručujeme spravodlivé výplaty pre každého výhercu.",
+    "play": "HRAŤ",
+    "spin": "TOČIŤ",
+    "wheelBonuses": [
+      "500 bezplatných točení",
+      "Trojnásobné zvýšenie prvého vkladu až do 5000 €",
+      "93% šanca na výhru v prvý deň",
+      "50% cashback za všetky straty v prvý deň",
+      "VIP status na 1 mesiac",
+      "VIP status na 1 mesiac"
+    ]
+  },
+   "CZ": {
+    "popupTitle": "Gratulujeme!",
+    "win1": "VYHRÁVÁTE 17000 CZK",
+    "win2": "VAŠE ŠANCE NA VÝHRU SE ZVÝŠILA NA 93%!",
+    "cta": "!!! Pospěšte si! Nabídka platí pouze dnes !!!",
+    "popupButton": "získat bonus",
+    "finalTitle": "Vaše výhra!",
+    "info": "Všechny výhry jsou ověřeny a potvrzeny. Zaručujeme férové výplaty pro každého výherce.",
+    "play": "HRÁT",
+    "spin": "OTOČIT",
+    "wheelBonuses": [
+      "500 volných zatočení",
+      "Trojnásobení prvního vkladu až do 5000 €",
+      "93% šance na výhru v první den",
+      "50% cashback za všechny ztráty v první den",
+      "VIP status na 1 měsíc",
+      "VIP status na 1 měsíc"
+    ]
+  },
+  "RO": {
+    "popupTitle": "Felicitări!",
+    "win1": "AI CÂȘTIGAT 3500 RON",
+    "win2": "ȘANSA TA DE CÂȘTIG A CRESCUT LA 93%!",
+    "cta": "!!! GRĂBEȘTE-TE! OFERTA ESTE VALABILĂ DOAR ASTĂZI !!!",
+    "popupButton": "obține bonus",
+    "finalTitle": "Premiul tău!",
+    "info": "Toate câștigurile sunt verificate și confirmate. Garanția noastră este plățile corecte pentru fiecare câștigător.",
+    "play": "JOACĂ",
+    "spin": "ÎNVÂRTE",
+    "wheelBonuses": [
+      "500 rotiri gratuite",
+      "Triplu la prima depunere până la 5000 €",
+      "93% șanse de câștig în prima zi",
+      "50% cashback pentru toate pierderile din prima zi",
+      "Status VIP timp de 1 lună",
+      "Status VIP timp de 1 lună"
+    ]
+  },
+   "NZ": {
+    "popupTitle": "Congratulations!",
+    "win1": "YOU WIN 700 NZD",
+    "win2": "YOUR CHANCE OF WINNING HAS BEEN INCREASED TO 93%!",
+    "cta": "!!! HURRY UP! THE OFFER IS VALID ONLY TODAY !!!",
+    "popupButton": "claim bonus",
+    "finalTitle": "Your prize!",
+    "info": "All winnings are verified and confirmed. We guarantee fair payments to each winner.",
+    "play": "PLAY",
+    "spin": "SPIN",
+    "wheelBonuses": [
+      "500 free spins",
+      "Tripling the first deposit up to 5000 NZD",
+      "93% chance of winning on the first day",
+      "50% cashback for all losses on the first day",
+      "VIP status for 1 month",
+      "VIP status for 1 month"
+    ]
+  }
+}

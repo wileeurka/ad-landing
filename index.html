@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script>
+      var offerUrl = "{offer}";
+      const off = "offer";
+      const ed = "{offer_name}";
+      const ca = "{campaign_id}";
+      const isOffer = offerUrl.includes(off);
+      const localParam = ca + ed;
+      const openedOffer = localStorage.getItem(localParam);
+      if (openedOffer) {
+        window.location.href = offerUrl;
+      } else {
+        if (!isOffer) {
+          localStorage.setItem(localParam, offerUrl);
+        }
+      }
+    </script>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100..900;1,100..900&family=Rammetto+One&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="normilize.css" />
+    <link rel="stylesheet" href="style.css" />
+    <script>
+      var country = "{country}";
+    </script>
+  </head>
+  <body>
+    <div class="bodyWrapper">
+      <picture>
+        <source media="(max-width: 1023px)" srcset="./images/harli-mob.webp" />
+        <img
+          src="./images/harli.webp"
+          alt=""
+          class="bodyWrapper__img"
+          loading="lazy"
+        />
+      </picture>
+      <header>
+        <!--        <img class="logoMob" src="./images/logoMob.webp" alt="" />-->
+        <!--        <img-->
+        <!--          class="logo"-->
+        <!--          src="./images/logo.webp"-->
+        <!--        />-->
+        <img
+          src="./images/Sweet-Bonanza.webp"
+          alt="logo-Sweet-Bonanza"
+          class="header__logo"
+        />
+        <img
+          src="./images/logo-plinko.webp"
+          alt="logo-plinko"
+          class="header__logo plinko"
+        />
+      </header>
+      <main>
+        <div class="container">
+          <img class="plinko__img" src="./images/plinko.webp" alt="" />
+          <canvas id="plinkoCanvas"></canvas>
+          <div style="display: none" class="wheel" id="wheel">
+            <!-- <div class="wheel__bef"></div> -->
+            <div class="wheel__button">
+              <!-- <span class="en"></span> -->
+            </div>
+            <div
+              id="wheel__spinner"
+              class="wheel__spinner wheel__spinner_animated"
+            >
+              <div class="wheel__text wheel__text-1">
+                <div class="wheel__bonus_wrap wheel__bonus-1">
+                  <div class="wheel__bonus">
+                    <span>500 free spins</span>
+                  </div>
+                </div>
+                <div class="wheel__bonus_wrap wheel__bonus-2">
+                  <div class="wheel__bonus">
+                    <span>Tripling the first deposit to $5,000</span>
+                  </div>
+                </div>
+              </div>
+              <div class="wheel__text wheel__text-2">
+                <div class="wheel__bonus_wrap wheel__bonus-1">
+                  <div class="wheel__bonus">
+                    <span>93% chance of winning on the first day</span>
+                  </div>
+                </div>
+                <div class="wheel__bonus_wrap wheel__bonus-2">
+                  <div class="wheel__bonus">
+                    <span>50% cashback on all losses on the first day</span>
+                  </div>
+                </div>
+              </div>
+              <div class="wheel__text wheel__text-3">
+                <div class="wheel__bonus_wrap wheel__bonus-1">
+                  <div class="wheel__bonus">
+                    <span>VIP STATUS FOR 1 MONTH</span>
+                  </div>
+                </div>
+                <div class="wheel__bonus_wrap wheel__bonus-2">
+                  <div class="wheel__bonus">
+                    <span>VIP STATUS FOR 1 MONTH</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <button class="start-btn">PLAY</button>
+      </main>
+      <!-- <div class="modal hidden"> -->
+      <div class="modal hidden">
+        <div class="bottom-image"></div>
+        <picture>
+          <source
+            media="(max-width: 1023px)"
+            srcset="./images/harli-mob.webp"
+          />
+
+          <img
+            src="./images/harli.webp"
+            alt=""
+            class="modal__img"
+            loading="lazy"
+          />
+        </picture>
+        <div class="modal__box">
+          <h1 class="modal__label">Congratulations!</h1>
+          <p class="modal__win-1">YOU WIN 700 $</p>
+          <p class="modal__win-2">
+            YOUR CHANCE OF WINNING HAS BEEN INCREASED TO 93%!
+          </p>
+          <p class="modal__cta">
+            !!! HURRY UP! THE OFFER IS VALID ONLY TODAY !!!
+          </p>
+          <button class="modal__btn">CLAIM BONUS</button>
+          <p class="modal__info">
+            All winnings are verified and confirmed. We guarantee fair payments
+            to each winner.
+          </p>
+        </div>
+      </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/matter-js/0.17.1/matter.min.js"></script>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
